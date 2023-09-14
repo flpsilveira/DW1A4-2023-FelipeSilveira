@@ -1,0 +1,33 @@
+ 
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  .white {
+    background-color: white;
+  }
+  
+  .light-blue {
+    background-color: lightblue;
+  }
+
+  .blue{
+    background-color:  blue;
+  }
+
+  .gray, p{
+    background-color:  gray;
+    color: white;
+}
+
+  .light-gray, p{
+    background-color:  lightgray;
+    color: white;
+  }
+
+  .dark-gray, p{
+    background-color:  dimgrey;
+    color: white;
+}
